@@ -1,4 +1,5 @@
 # Code-for-computing
+
 print("Title of program: CCA Matching Personality test")
 print()
 print("Welcome to DHS! Please answer the following questions truthfully and we'll suggest a CCA for you!")
@@ -30,4 +31,4 @@ elif outdoor_final > music_final:
   print("You might be suitable for NPCC!")
 else:
   print("You might be suitable for Band!")
-  print("Note: You can still make your own choice on your CCA! This is just a suggestion.")
+print("Note: You can still make your own choice on your CCA! This is just a suggestion.")
